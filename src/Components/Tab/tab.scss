@@ -1,0 +1,21 @@
+.tab {
+    border-radius: 50px;
+    background: #FFF;
+    display: flex;
+    padding: 8px 14px;
+    align-items: center;
+    gap: 8px;
+    flex-basis: 10.24%;
+    .tab__image {
+        display: flex;
+    }
+
+    .tab__title {
+        color: #000;
+        font-family: Nunito;
+        font-size: 16px;
+        font-style: normal;
+        font-weight: 400;
+        line-height: normal;
+    }
+}
